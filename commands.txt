@@ -28,7 +28,7 @@ This will install the Express package and its dependencies. Once the installatio
 -> SET DEBUG=[project-name]:* :The command SET DEBUG=project-restaurant:* ; npm start is used to start an Express application in debug mode. The DEBUG environment variable is used to specify which parts of your application you want to debug. In this case, the DEBUG environment variable is set to [project-name]:*, which means that all of the code in the [project-name] directory and its subdirectories will be debugged.
 
 
--> npm start : The npm start command is used to start an Express application. The npm start command will first install any dependencies that are not already installed, and then it will start the application.
+-> npm start : The npm start command is used to start an application. The npm start command will first install any dependencies that are not already installed, and then it will start the application.
 
 
 -> nodemon :nodemon is a tool that helps develop Node.js based applications by automatically restarting the node application when file changes in the directory are detected.
