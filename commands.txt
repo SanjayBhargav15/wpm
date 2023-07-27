@@ -1,7 +1,7 @@
 -> node --version : The node --version command is used to check the version of Node.js that is installed on your system. It is a simple command that can be run from the command line.Current version is 18.17.0
 
 
--> npm --version : The npm --version command is used to check the version of Node.js that is installed on your system. It is a simple command that can be run from the command line.Current version is 9.8.0
+-> npm --version : The npm --version command is used to check the version of npm that is installed on your system. It is a simple command that can be run from the command line.Current version is 9.8.0
 
 
 -> express --version : The express --version command is used to check the version of Express that is installed on your system. Express is a web application framework for Node.js, and it is used to create web applications and APIs.Current version of express is 4.16.1
